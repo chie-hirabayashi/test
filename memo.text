@@ -1,0 +1,6 @@
+TEST01プロジェクト ・・・ .venvがbroken
+
+TEST02
+ test01_sai.py・・・成功
+ test03~05.py・・・試行
+ test06・・・こんなかんじでDB作って接続して操作
